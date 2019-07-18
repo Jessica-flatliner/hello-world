@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Everyday with Isa</title>
+  </head>
+    <body>
+      <a href="#contact"><img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/profile.jpg"></a>
+      <h3>by Isabelle Rodriguez | 1 day ago<h3>
+      <h1>An Insider's Guide to NYFW</h1>
+      <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-one.jpeg">
+        <p><a href="https://en.wikipedia.org/wiki/New_York_Fashion_Week" target="_blank">NYFW</a> can be both amazingly fun & incredibly overwhelming, especially if you've never been. Luckily,I'm here to give you am insider's guide and make your first show a pleasurable experience.<br> By taking my tips and tricks,and following your gut, you'll have an unforgettable experience!</p>
+      <h2>Getting Tickets & Picking the Shows</h2>
+     <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-two.jpeg"> 
+      <p>If you're lucky or connected you can get an invite, sans the price tag.But i wasn't so lucky my first two years so I'm here to help you out.<br> First, plan out which shows are important to you and make a schedule and this is a biggie: SET A BUDGET. <br>If you are worried about blowing your cash the whole time you wont have fun. Then check out prices, days, and times and prioritize the designers you want to see most.<br> Lastly, purchase your tickets and get excited!</p>
+        
+        <h2>Dressing for the Shows<h2>
+      <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html/elements-and-structure/image-three.jpeg">
+
+          <p>Always be true to your own sense of style, if you dont you'll be uncomfortable the whole time and it will show.<br> Remember, NYFW is about expressing yourself and taking in what the designers have chosen to express through their new lines.<br> Also it's important to wear shoes you'll be comfortable in all day. Obvioisly you want to look good, but you will be on your feet all day long, so be prepared.</p>
+          <h4>Related Content</h4>
+          <ul>
+            <li>How To Style Boyfriend Jeans</li>
+            <li>When Print Is Too Much</li>
+            <li>The Overalls Trend</li>
+            <li>Fall's It Color:Blush</li>
+			<p> Below is a video from youtube of what to expect at the fashion week and how " THINGS GO DOWN" at NYFW.</p>
+					  <iframe width="560" height="315" src="https://www.youtube.com/embed/KjhwhElwag8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+          </ul>
+          <div id="contact"><p><strong>email</strong>: isa@fashionblog.com | <strong>phone</strong>: 917-555-1098 | <strong>address</strong>: 371 284th St, New York, NY,10001</p></div>
+    </body>
+</html>			
+            
+            
+            
+            
